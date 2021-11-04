@@ -1,0 +1,10 @@
+.container {
+    background-color: skyblue;
+    color: black;
+    height: 203px;
+    width: 345px;
+    display: flex;
+}
+p{
+    font-weight: bolder;
+}

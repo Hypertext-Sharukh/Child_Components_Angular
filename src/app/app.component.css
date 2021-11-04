@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 110px;
+}
+p{
+    font-size: 28px;
+    font-weight: bolder;
+}
